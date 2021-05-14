@@ -1,0 +1,23 @@
+{
+  "name": "web-scrapper",
+  "version": "1.0.0",
+  "description": "performs web scrapping functionalities ",
+  "main": "scrape.js",
+  "dependencies": {
+    "website-scraper": "^4.2.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hakhan88/web-scrapper.git"
+  },
+  "author": "haris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hakhan88/web-scrapper/issues"
+  },
+  "homepage": "https://github.com/hakhan88/web-scrapper#readme"
+}

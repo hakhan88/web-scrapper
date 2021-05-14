@@ -1,1 +1,3 @@
-# web-scrapper
+# website-scrapper
+
+Simple website scrapper 
