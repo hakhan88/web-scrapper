@@ -1,4 +1,4 @@
-# website-scrapper
+# Website-Scrapper
 
 Simple website scrapper to download remote websites to your local folder
 
